@@ -1,0 +1,117 @@
+{
+  "main": {
+    "firstName": "Shubham",
+    "name": "Shubham Baragi",
+    "phone":"8618810264",
+    "occupation": "FrontEnd & Full Stack Developer",
+    "description": "I like dabbling in various parts of frontend development and like to learn about new technologies and Iam Passionate Photographer with Photo & Video Edditor",
+    "image": "profile.jpg",
+    "bio": "I am a passionate Full Stack Developer in building web applications using modern technologies.With expertise in both frontend and backend development, I have worked extensively with the FullStack (MySQL, Express.js, React.js, Node.js).I am proficient in building interactive dashboards, landing pages, and API-driven applications while maintaining best practices in code quality, performance optimization, and user experience. My skill set includes working with relational and non-relational databases (MySQL, MongoDB), deploying applications on cloud platforms like Netlify, and managing data-driven projects with interactive charts and filtering options.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "shubbusb@gmail.com",
+    "address": {
+      "city": "India",
+      "state": "Karnataka"
+    },
+    "website": "https://teamtreehouse.com/geraldtorres",
+    "resumedownload": "https://drive.google.com/file/d/1cALvtZl28eXcpfuu2VFymr_gwLR7WOYK/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shubham-baragi-52b493273/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shubhambaragi07",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am well versed in using React.JS as my main Front end tech stack along with Nodejs and MySQL Database",
+    "education": [
+      {
+        "school": "Jain College of Engineering, Belagavi",
+        "degree": "Bachelors of Engineering in Mechanical Engineering",
+        "graduated": "June 2023",
+        "description": "Graduated with First-Class"
+      },
+      {
+        "school": "SJPN Trust's Polytechnic, Nidasoshi",
+        "degree": "Diploma in Mechanical Engineering",
+        "graduated": "Aug 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "BYTE Uprise",
+        "title": "Web Developer Intern",
+        "years": "March 2024",
+        "description": ""
+      },
+      {
+        "company": "Ellipsonic india Solutions PVT,LMT ",
+        "title": "Software Developer intern",
+        "years": "April 2024 - May 2024",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "CSS3",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "React-JS",
+        "level": "70%"
+      },
+      {
+        "name": "BootStrap-5",
+        "level": "60%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "50%"
+      },
+      {
+        "name": "MY-SQL",
+        "level": "60%"
+      },
+      {
+        "name": "Core-java",
+        "level": "75%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text":"Clean code always looks like it was written by someone who cares.",
+        "user": " Robert C. Martin"
+      },
+      {
+        "text": "Programming is the art of algorithm design and the craft of debugging errant code",
+        "user": "Ellen Ullman"
+      },
+      {
+        "text": "If he can clap a website together as fast as them cheeks, mans got skill",
+        "user": "Nathan Patton"
+      }
+    ]
+  }
+}
